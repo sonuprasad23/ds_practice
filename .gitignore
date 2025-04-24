@@ -1,0 +1,15 @@
+# Environment Folders
+.env
+venv/
+env/
+# IDE Folders
+.vscode/
+.idea/
+# Data (if large or sensitive)
+# data/raw/
+# data/processed/
+# Compiled Python
+*.pyc
+__pycache__/
+# Notebook Checkpoints
+.ipynb_checkpoints/
