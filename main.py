@@ -1,4 +1,4 @@
-print('Hello Python')
-import os
-print(Hello from clone)
+print('hello python')
 # Added by branch A
+import os
+print('Hello from clone')
