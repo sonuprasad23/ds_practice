@@ -1,0 +1,6 @@
+data_tuple=(0,'a', 2.5, 'b', 5)
+print(f"Tuple: {data_tuple}")
+print(f"First element: {data_tuple[0]}")
+print(f"Last element: {data_tuple[-1]}")
+print(f"Second element {data_tuple[1]}")
+print(f"Slice [1,4]: {data_tuple[1:4]}")
