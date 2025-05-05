@@ -6,5 +6,3 @@ print("Chained generator results")
 
 for result in gen3:
     print(result)
-
-    
