@@ -1,0 +1,6 @@
+This is the first line.
+Python file writing is fun.
+End of file.
+This is the last line.
+This is an appended line.
+Another appended line.
